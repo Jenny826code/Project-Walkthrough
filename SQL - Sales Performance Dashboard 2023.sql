@@ -1,4 +1,4 @@
-/*Sales Performance Dashboard*/
+/* Sales Performance Dashboard */
 
 --Query 1: Rolling 3-Month Sales Performance by Region
 WITH sales_summary AS (
