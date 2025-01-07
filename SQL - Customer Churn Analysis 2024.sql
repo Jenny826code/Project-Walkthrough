@@ -1,4 +1,4 @@
-/*1. Customer Churn Analysis*/
+/* Customer Churn Analysis */
 
 --Query 1: Monthly Churn Rate with Customer Retention Trend
 WITH customer_activity AS (
